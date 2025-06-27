@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/monster-rolodex-class-components/node_modules
+/monster-rolodex-class-component-structured/node_modules
+/monster-rolodex-functional-component/node_modules
 
 # testing
 /coverage
